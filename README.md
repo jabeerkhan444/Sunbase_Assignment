@@ -19,11 +19,15 @@
   ![Screenshot 2024-07-11 181618](https://github.com/jabeerkhan444/Sunbase_Assignment/assets/78999289/14dc246c-3770-4bfa-bff2-9a2b09ffb494)
   
 - Update a student: `/update.jsp?id=<student-id>`
+  
   ![Screenshot 2024-07-11 181811](https://github.com/jabeerkhan444/Sunbase_Assignment/assets/78999289/fcb41d0f-ea3a-4a76-812a-68c33ce93a81)
 
   Before Updating
+  
   ![Screenshot 2024-07-11 181618](https://github.com/jabeerkhan444/Sunbase_Assignment/assets/78999289/14dc246c-3770-4bfa-bff2-9a2b09ffb494)
+  
   After Updating
+  
   ![Screenshot 2024-07-11 181852](https://github.com/jabeerkhan444/Sunbase_Assignment/assets/78999289/22342021-1b1f-4a44-a2db-cb0692b0aa11)
 
 - Delete a student: `/delete?id=<student-id>`
