@@ -1,5 +1,5 @@
 # Sunbase_Assignment
-Database Setup:
+## Database Setup:
 - Create a database named `student_db`.
 - Create a table named `students` with the following schema:
 
