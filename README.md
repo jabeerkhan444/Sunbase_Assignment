@@ -1,7 +1,7 @@
 # Sunbase_Assignment
 
-Student Management System: A Java-based web application using JSP, Servlets, and MySQL for CRUD operations on student records.<br/>
-Easily manage student information, including name, email, and age, with functionalities for adding, updating, and deleting records in a user-friendly interface.
+1. Student Management System: A Java-based web application using JSP, Servlets, and MySQL for CRUD operations on student records.
+2. Easily manage student information, including name, email, and age, with functionalities for adding, updating, and deleting records in a user-friendly interface.
 
 ## Database Setup:
 - Create a database named `student_db`.
