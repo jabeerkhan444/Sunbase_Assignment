@@ -3,7 +3,7 @@ Database Setup:
 - Create a database named `student_db`.
 - Create a table named `students` with the following schema:
 
-CREATE TABLE students ( < br / >
+CREATE TABLE students ( <br/>
 id INT PRIMARY KEY AUTO_INCREMENT,
 name VARCHAR(50),
 email VARCHAR(50),
