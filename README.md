@@ -12,7 +12,8 @@
 
 - Add a new student: `/add.jsp`
 
-  
+  ![Screenshot 2024-07-11 180132](https://github.com/jabeerkhan444/Sunbase_Assignment/assets/78999289/61cf6cde-c1da-4a3c-8140-d3c713d12878)
+
 - View student list: `/list`
 - Update a student: `/update.jsp?id=<student-id>`
 - Delete a student: `/delete?id=<student-id>`
