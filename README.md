@@ -4,11 +4,11 @@ Database Setup:
 - Create a table named `students` with the following schema:
 
 CREATE TABLE students ( <br/>
-id INT PRIMARY KEY AUTO_INCREMENT,
-name VARCHAR(50),
-email VARCHAR(50),
-age INT
-);
+  id INT PRIMARY KEY AUTO_INCREMENT,<br/>
+name VARCHAR(50),<br/>
+email VARCHAR(50),<br/>
+age INT<br/>
+);<br/>
 
 ## How to Run
 
