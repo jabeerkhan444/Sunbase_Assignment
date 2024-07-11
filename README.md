@@ -16,3 +16,4 @@
 - View student list: `/list`
 - Update a student: `/update.jsp?id=<student-id>`
 - Delete a student: `/delete?id=<student-id>`
+- Search a student: `/search?search=j`
