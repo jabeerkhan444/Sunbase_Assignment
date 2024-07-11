@@ -31,4 +31,22 @@
   ![Screenshot 2024-07-11 181852](https://github.com/jabeerkhan444/Sunbase_Assignment/assets/78999289/22342021-1b1f-4a44-a2db-cb0692b0aa11)
 
 - Delete a student: `/delete?id=<student-id>`
+  
+  Before Deleting
+
+  ![Screenshot 2024-07-11 181618](https://github.com/jabeerkhan444/Sunbase_Assignment/assets/78999289/14dc246c-3770-4bfa-bff2-9a2b09ffb494)
+
+  After Deleting
+
+  ![Screenshot 2024-07-11 181947](https://github.com/jabeerkhan444/Sunbase_Assignment/assets/78999289/20b18b02-14e1-4d15-a879-91f6ed154f0d)
+
 - Search a student: `/search?search=j`
+  
+  Searched for 'John Doe'
+  
+  ![Screenshot 2024-07-11 181618](https://github.com/jabeerkhan444/Sunbase_Assignment/assets/78999289/28812b33-d46e-43d6-b234-d73621bb2947)
+
+  Searched Result
+
+  ![Screenshot 2024-07-11 181643](https://github.com/jabeerkhan444/Sunbase_Assignment/assets/78999289/3e87d331-bbec-4865-b50e-7d39b70fc8c4)
+
