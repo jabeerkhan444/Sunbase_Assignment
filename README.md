@@ -1,4 +1,15 @@
 # Sunbase_Assignment
+Database Setup:
+- Create a database named `student_db`.
+- Create a table named `students` with the following schema:
+
+CREATE TABLE students (
+id INT PRIMARY KEY AUTO_INCREMENT,
+name VARCHAR(50),
+email VARCHAR(50),
+age INT
+);
+
 ## How to Run
 
 1. Clone the repository: `git clone <repository-link>`
